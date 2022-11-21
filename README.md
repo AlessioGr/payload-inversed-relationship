@@ -1,3 +1,5 @@
+# NOTE: Please switch to [this project](https://github.com/TimHal/pcms-backpop).
+
 # payload-inversed-relationship
 Inversed / Bi-directional relationship field for payload cms
 
